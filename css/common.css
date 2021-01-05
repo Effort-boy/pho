@@ -1,0 +1,24 @@
+    /* 设置初始设置 */
+    *{
+    	padding: 0;
+    	margin: 0;
+    	list-style: none;
+    }
+    a{
+    	text-decoration: none;
+    }
+    body{
+    	background-color: rgba(193 ,186 ,179 , 0.79);
+    }
+    @font-face{
+    	font-family: logo;
+    	src: url('../font/logo1.ttf');
+    }
+    @font-face{
+    	font-family: nav;
+    	src: url('../font/nav.ttf');
+    }
+    @font-face{
+    	font-family: title;
+    	src: url('../font/logo3.ttf');
+    }

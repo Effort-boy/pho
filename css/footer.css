@@ -1,0 +1,22 @@
+    /* 尾部 */
+    .footer{
+    	width: 100%;
+    	height: 100px;
+    	background-color: black;
+    	position: relative;
+    }
+    .footer .logo,.footer .footer_cont{
+    	position: absolute;
+    	transform: translate(-50%, -50%);
+    }
+    .footer .logo{
+    	top: 50%;
+    	left: 10%;
+    }
+    .footer .footer_cont{
+    	font-family: nav;
+    	color: #bbbdae;
+    	text-align: center;
+    	top: 50%;
+    	left: 50%;
+    }
